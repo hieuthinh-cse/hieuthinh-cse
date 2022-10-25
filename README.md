@@ -17,9 +17,9 @@ Main focus on: Micro-services with Java, Spring and Cloud.
 
 💪🏿 Skills
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hieuthinh-cse&count_private=true&theme=algolia&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuthinh-cse&layout=compact&theme=algolia)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hieuthinh-cse&count_private=true&theme=algolia&show_icons=true)
 
 <!--
 **hieuthinh-cse/hieuthinh-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
