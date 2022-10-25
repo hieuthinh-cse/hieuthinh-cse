@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+```
+Hi everyone,
+
+It is Theodore - Senior Software Engineer at NAB.
+I have 5+ years of experience on Web-service Development.
+Main focus on: Micro-services with Java, Spring and Cloud.
+```
+😄 Pronouns: Theodore */ˈθiːədɔːr/*
+
+▶ [Website](https://hieuthinh-cse.github.io/)
+
+💻 Articles
+
+- [[Apache Kafka] Kiến trúc consumer retry trong Apache Kafka](https://viblo.asia/p/apache-kafka-kien-truc-consumer-retry-trong-apache-kafka-ByEZkvWgKQ0)
+
+💪🏿 Skills
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hieuthinh-cse&count_private=true&theme=algolia&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuthinh-cse&layout=compact&theme=algolia)
