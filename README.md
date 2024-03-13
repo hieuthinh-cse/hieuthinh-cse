@@ -4,8 +4,8 @@
 Hi everyone,
 
 It is Theodore - Senior Software Engineer at NAB.
-I have 5+ years of experience on Web-service Development.
-Main focus on: Micro-services with Java, Spring and Cloud.
+I have 7+ years of experience on Web-service Development.
+Main focus on: Micro-services with Java, Spring, and Cloud.
 ```
 😄 Pronouns: Theodore */ˈθiːədɔːr/*
 
